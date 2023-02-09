@@ -20,6 +20,7 @@ Os seguintes arquivos foram adicionados para compor o projeto.
 - `regression_logistic.ipynb` ---> Jupyter notebook contendo as informações do modelo escolhido de regressão logistica (EDA, Estatisticas descritivas, treinamento, predição)
 - `decision_tree.ipynb` ---> Jupyter notebook contendo as informações do modelo alternativo de arvore de decisão (EDA, Estatisticas descritivas, treinamento, predição)
 - `predicted.csv`---> Arquivo csv contendo o resultado final do modelo em uma planilha com apenas duas colunas (rowNumber, predictedValues). 
+- `requirements.txt` ---> Contendo as dependencias do projeto.
 
 ### Documentação dos dados  :eyes: :clipboard:
 
